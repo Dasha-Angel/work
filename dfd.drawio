@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="B3VWABZ5g-a6MC6nwVtn">
+    <mxGraphModel dx="1366" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CWRuVaV79howT34Uce6o-1" parent="1" style="html=1;whiteSpace=wrap;" value="Отдел закупок" vertex="1">
+          <mxGeometry height="50" width="110" x="260" y="298.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CWRuVaV79howT34Uce6o-2" parent="1" style="html=1;whiteSpace=wrap;" value="Поставщик" vertex="1">
+          <mxGeometry height="50" width="110" x="840" y="298.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CWRuVaV79howT34Uce6o-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Обработка заказов на закупку" vertex="1">
+          <mxGeometry height="85" width="150" x="520" y="281" as="geometry" />
+        </mxCell>
+        <mxCell id="CWRuVaV79howT34Uce6o-4" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" value="Заявка на закупку">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="370" y="306" as="sourcePoint" />
+            <mxPoint x="520" y="306" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWRuVaV79howT34Uce6o-5" edge="1" parent="1" source="CWRuVaV79howT34Uce6o-3" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=0;exitY=0.666;exitDx=0;exitDy=0;entryX=1.002;entryY=0.793;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="CWRuVaV79howT34Uce6o-1" value="Подтверждение заказа">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="520" y="348.5" as="sourcePoint" />
+            <mxPoint x="420" y="329.75238095238075" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWRuVaV79howT34Uce6o-6" edge="1" parent="1" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.005;entryY=0.194;entryDx=0;entryDy=0;entryPerimeter=0;" target="CWRuVaV79howT34Uce6o-2" value="Заказ поставщику">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="670" y="308.5" as="sourcePoint" />
+            <mxPoint x="820" y="308.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWRuVaV79howT34Uce6o-7" edge="1" parent="1" source="CWRuVaV79howT34Uce6o-2" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;exitX=-0.003;exitY=0.801;exitDx=0;exitDy=0;exitPerimeter=0;" value="Счет на оплату">
+          <mxGeometry relative="1" width="80" as="geometry">
+            <mxPoint x="750" y="338.5" as="sourcePoint" />
+            <mxPoint x="670" y="338.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CWRuVaV79howT34Uce6o-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0" vertex="1">
+          <mxGeometry height="30" width="60" x="630" y="281" as="geometry" />
+        </mxCell>
+        <mxCell id="CWRuVaV79howT34Uce6o-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="0p" vertex="1">
+          <mxGeometry height="30" width="60" x="508" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="CWRuVaV79howT34Uce6o-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="2" vertex="1">
+          <mxGeometry height="30" width="60" x="820" y="294.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
