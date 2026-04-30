@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Страница-1" id="0kDy0ryjlF1NZmeuP_Sw">
-    <mxGraphModel dx="1012" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1366" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VGfTtHwpzgGDQ7RK_Ntx-1" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="130" x="860" y="180" as="geometry" />
+          <mxGeometry height="40" width="130" x="860" y="182" as="geometry" />
         </mxCell>
         <mxCell id="VGfTtHwpzgGDQ7RK_Ntx-2" parent="VGfTtHwpzgGDQ7RK_Ntx-1" style="html=1;whiteSpace=wrap;" value="Отдел закупок" vertex="1">
           <mxGeometry height="37.03703703703704" width="110" x="20" y="2.962962962962963" as="geometry" />
@@ -213,7 +213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VGfTtHwpzgGDQ7RK_Ntx-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="3" vertex="1">
-          <mxGeometry height="30" width="60" x="430" y="869.5" as="geometry" />
+          <mxGeometry height="30" width="60" x="442" y="606" as="geometry" />
         </mxCell>
         <mxCell id="VGfTtHwpzgGDQ7RK_Ntx-35" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.271;entryY=1.01;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.331;exitY=0.009;exitDx=0;exitDy=0;exitPerimeter=0;">
           <mxGeometry relative="1" as="geometry">
@@ -243,6 +243,9 @@
             <mxPoint x="390" y="228" as="sourcePoint" />
             <mxPoint x="599" y="423" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="EcBoBAgqfv5MTD7bdZtR-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="4" vertex="1">
+          <mxGeometry height="30" width="60" x="809" y="456" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
