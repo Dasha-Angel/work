@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" pages="3">
+<mxfile host="app.diagrams.net" pages="4">
   <diagram name="Страница-1" id="E8Rm1Rg7M9lhWc9i7-7V">
     <mxGraphModel dx="1291" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -624,6 +624,92 @@
             <mxPoint x="-25" y="569.5" as="sourcePoint" />
             <mxPoint x="-25" y="549.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="gOQmhOK8JAFRRVOHcJcT" name="Страница-4">
+    <mxGraphModel dx="890" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hN-jKV0HY3af760CCmhL-10" edge="1" parent="1" source="zQrWL7ad_15errneHVc0-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vuSUZZDHSYuYXkf5sXnN-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-11" edge="1" parent="1" source="zQrWL7ad_15errneHVc0-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vuSUZZDHSYuYXkf5sXnN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-12" edge="1" parent="1" source="zQrWL7ad_15errneHVc0-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vuSUZZDHSYuYXkf5sXnN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-13" edge="1" parent="1" source="zQrWL7ad_15errneHVc0-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="vuSUZZDHSYuYXkf5sXnN-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zQrWL7ad_15errneHVc0-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Автоматизация деятельности кадрового агентства&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="90" width="180" x="310" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="zQrWL7ad_15errneHVc0-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А0" vertex="1">
+          <mxGeometry height="30" width="60" x="447" y="166" as="geometry" />
+        </mxCell>
+        <mxCell id="vuSUZZDHSYuYXkf5sXnN-1" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Регистрация и приём данных&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="90" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-14" edge="1" parent="1" source="vuSUZZDHSYuYXkf5sXnN-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="hN-jKV0HY3af760CCmhL-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-15" edge="1" parent="1" source="vuSUZZDHSYuYXkf5sXnN-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="hN-jKV0HY3af760CCmhL-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-16" edge="1" parent="1" source="vuSUZZDHSYuYXkf5sXnN-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="hN-jKV0HY3af760CCmhL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-17" edge="1" parent="1" source="vuSUZZDHSYuYXkf5sXnN-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="hN-jKV0HY3af760CCmhL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vuSUZZDHSYuYXkf5sXnN-2" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font&gt;Подбор кандидатов под вакансии&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="280" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vuSUZZDHSYuYXkf5sXnN-3" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Организация собеседований и трудоустройство&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="130" x="470" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vuSUZZDHSYuYXkf5sXnN-4" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Формирование отчётности для госорганов&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="660" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="vuSUZZDHSYuYXkf5sXnN-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А1" vertex="1">
+          <mxGeometry height="10" width="10" x="203" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="vuSUZZDHSYuYXkf5sXnN-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А2" vertex="1">
+          <mxGeometry height="10" width="10" x="384" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="vuSUZZDHSYuYXkf5sXnN-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А3" vertex="1">
+          <mxGeometry height="10" width="20" x="578" y="318" as="geometry" />
+        </mxCell>
+        <mxCell id="vuSUZZDHSYuYXkf5sXnN-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А4" vertex="1">
+          <mxGeometry height="10" width="10" x="764" y="314" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-1" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Анализ требований вакансии&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="67" y="399" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-2" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Поиск в базе резюме&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="220" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-3" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Helvetica&quot;&gt;Отбор и сортировка соискателей&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="124.5" x="384" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-4" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Формирование списка рекомендаций&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="540" y="401" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А21" vertex="1">
+          <mxGeometry height="30" width="60" x="143" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А22" vertex="1">
+          <mxGeometry height="30" width="60" x="306" y="436" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А23" vertex="1">
+          <mxGeometry height="30" width="60" x="463.5" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="hN-jKV0HY3af760CCmhL-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А24" vertex="1">
+          <mxGeometry height="30" width="60" x="637" y="438" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
