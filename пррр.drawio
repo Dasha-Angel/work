@@ -134,24 +134,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PW4tICowNfiDsTC6KUQc" name="Страница-2">
-    <mxGraphModel dx="2054" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2881" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nMXdglz-Rnz_CnwYSJkd-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Регистрация пользователей&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="50" y="270" as="geometry" />
+        <mxCell id="LbyxF0sylNMSBvLKKkNX-1" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Регистрация и приём данных&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="310" as="geometry" />
         </mxCell>
-        <mxCell id="nMXdglz-Rnz_CnwYSJkd-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-weight: 400; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Ведение базы резюме и вакансий&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="230" y="360" as="geometry" />
+        <mxCell id="LbyxF0sylNMSBvLKKkNX-2" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font&gt;Подбор кандидатов под вакансии&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="260" y="380" as="geometry" />
         </mxCell>
-        <mxCell id="nMXdglz-Rnz_CnwYSJkd-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Подбор персонала&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="414" y="440" as="geometry" />
+        <mxCell id="LbyxF0sylNMSBvLKKkNX-3" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Организация собеседований и трудоустройство&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="400" y="440" as="geometry" />
         </mxCell>
-        <mxCell id="nMXdglz-Rnz_CnwYSJkd-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Организация собеседований и трудоустройство" vertex="1">
-          <mxGeometry height="60" width="120" x="580" y="525" as="geometry" />
+        <mxCell id="LbyxF0sylNMSBvLKKkNX-4" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Формирование отчётности для госорганов&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="530" y="540" as="geometry" />
         </mxCell>
-        <mxCell id="nMXdglz-Rnz_CnwYSJkd-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Формирование отчетности" vertex="1">
-          <mxGeometry height="60" width="120" x="730" y="620" as="geometry" />
+        <mxCell id="LbyxF0sylNMSBvLKKkNX-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Резюме соискателей&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-10" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="LbyxF0sylNMSBvLKKkNX-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;Заявки на вакансии&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="-30" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="LbyxF0sylNMSBvLKKkNX-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;База резюме и вакансий&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="LbyxF0sylNMSBvLKKkNX-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font&gt;Список подходящих кандидатов&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="400" y="370" as="geometry" />
+        </mxCell>
+        <mxCell id="LbyxF0sylNMSBvLKKkNX-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Данные о трудоустройстве&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="550" y="480" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
