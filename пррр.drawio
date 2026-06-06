@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" pages="3">
   <diagram name="Страница-1" id="E8Rm1Rg7M9lhWc9i7-7V">
-    <mxGraphModel dx="1174" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1291" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,8 +115,8 @@
         <mxCell id="CqQ1TxxqesF6ExyMjnUa-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Helvetica&quot;&gt;&lt;span class=&quot;&quot; style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot;&gt;ЦЕЛЬ:&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;&quot; style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;«Описать функционирование ИС кадрового агентства для последующей разработки ТЗ»&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="250" x="210" y="730" as="geometry" />
         </mxCell>
-        <mxCell id="CqQ1TxxqesF6ExyMjnUa-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;НОМЕР:&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="786" y="775" as="geometry" />
+        <mxCell id="CqQ1TxxqesF6ExyMjnUa-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;НОМЕР: 1&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="792" y="775" as="geometry" />
         </mxCell>
         <mxCell id="CqQ1TxxqesF6ExyMjnUa-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -124,7 +124,7 @@
             <mxPoint x="786" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CqQ1TxxqesF6ExyMjnUa-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;&lt;span class=&quot;&quot; style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;А-0 Автоматизация деятельности кадрового агентства»&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="CqQ1TxxqesF6ExyMjnUa-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;&lt;span class=&quot;&quot; style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Автоматизация деятельности кадрового агентства»&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="430" x="360" y="775" as="geometry" />
         </mxCell>
         <mxCell id="hXQ07CeSBiozO_EZ2iDh-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Трудовой кодекс РФ, 152-ФЗ&lt;/font&gt;&lt;/span&gt;" vertex="1">
@@ -137,18 +137,18 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PW4tICowNfiDsTC6KUQc" name="Страница-2">
-    <mxGraphModel dx="3761" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2357" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MChnthXpyawZlyjfcShw-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="659" width="1010" x="-780" y="40" as="geometry" />
         </mxCell>
-        <mxCell id="MChnthXpyawZlyjfcShw-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;УЗЕЛ:&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="-790" y="674" as="geometry" />
+        <mxCell id="MChnthXpyawZlyjfcShw-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;УЗЕЛ: А0&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="-777" y="675" as="geometry" />
         </mxCell>
-        <mxCell id="MChnthXpyawZlyjfcShw-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;НОМЕР:&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="140" y="675" as="geometry" />
+        <mxCell id="MChnthXpyawZlyjfcShw-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;НОМЕР: 2&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="146" y="675" as="geometry" />
         </mxCell>
         <mxCell id="MChnthXpyawZlyjfcShw-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;&lt;span class=&quot;&quot; style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Автоматизация деятельности кадрового агентства»&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="755" x="-615" y="674" as="geometry" />
@@ -185,7 +185,7 @@
         <mxCell id="LbyxF0sylNMSBvLKKkNX-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Резюме соискателей&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="-744" y="215" as="geometry" />
         </mxCell>
-        <mxCell id="LbyxF0sylNMSBvLKKkNX-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 11px;&quot;&gt;Заявки на вакансии&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="LbyxF0sylNMSBvLKKkNX-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Заявки на вакансии&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="120" x="-746" y="246" as="geometry" />
         </mxCell>
         <mxCell id="LbyxF0sylNMSBvLKKkNX-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;База резюме и вакансий&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
@@ -378,10 +378,253 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OKIBUEjgnN8KD_Zyf4oz" name="Страница-3">
-    <mxGraphModel dx="2054" dy="1144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2627" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3EG5XVEzHpPt3dmd6yyl-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="576.5" width="1030" x="-110" y="-7" as="geometry" />
+        </mxCell>
+        <mxCell id="3EG5XVEzHpPt3dmd6yyl-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;&quot;&gt;УЗЕЛ: А2&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="-107" y="543.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3EG5XVEzHpPt3dmd6yyl-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;НОМЕР: 3&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="837" y="544.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3EG5XVEzHpPt3dmd6yyl-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Подбор кандидатов под вакансии&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="755" x="55" y="544.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3EG5XVEzHpPt3dmd6yyl-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="ЗАГОЛОВОК:" vertex="1">
+          <mxGeometry height="30" width="80" x="-21" y="544.5" as="geometry" />
+        </mxCell>
+        <mxCell id="3EG5XVEzHpPt3dmd6yyl-6" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-110" y="550" as="sourcePoint" />
+            <mxPoint x="920" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-12" edge="1" parent="1" source="aTxS4qODQrpRxyoSg-6O-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aTxS4qODQrpRxyoSg-6O-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="180" y="145" />
+              <mxPoint x="180" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTxS4qODQrpRxyoSg-6O-1" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Анализ требований вакансии&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="120" x="40" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-13" edge="1" parent="1" source="aTxS4qODQrpRxyoSg-6O-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="aTxS4qODQrpRxyoSg-6O-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aTxS4qODQrpRxyoSg-6O-2" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Поиск в базе резюме&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="230" y="205" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-14" edge="1" parent="1" source="aTxS4qODQrpRxyoSg-6O-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="aTxS4qODQrpRxyoSg-6O-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="310" />
+              <mxPoint x="570" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTxS4qODQrpRxyoSg-6O-3" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;font face=&quot;Helvetica&quot;&gt;Отбор и сортировка соискателей.&lt;/font&gt;" vertex="1">
+          <mxGeometry height="70" width="134" x="416" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-15" edge="1" parent="1" source="aTxS4qODQrpRxyoSg-6O-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="900" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aTxS4qODQrpRxyoSg-6O-4" parent="1" style="whiteSpace=wrap;html=1;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Формирование списка рекомендаций&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="610" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="aIXj68UqMKaaQ87U1a9P-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font&gt;Требования вакансий&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="130" x="-100" y="107" as="geometry" />
+        </mxCell>
+        <mxCell id="aIXj68UqMKaaQ87U1a9P-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;База резюме&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="90" x="-89" y="136" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ctWgyefJJFFEzihTIk-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Трудовой кодекс РФ, 152-ФЗ&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="110" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="b9ctWgyefJJFFEzihTIk-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Регламент агентства&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="240" x="306" y="58" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Трудовой кодекс РФ, 152-ФЗ&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="250" x="255" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font&gt;Регламент агентства&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="40" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Проанализированные требования&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Найденные кандидаты&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="396" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Отранжированный список&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="570" y="315" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;color: rgb(15, 17, 21); text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span class=&quot;&quot; style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Список подходящих кандидатов&lt;/font&gt;&lt;/span&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="150" x="740" y="352" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-9" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-100" y="130" as="sourcePoint" />
+            <mxPoint x="40" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-100" y="160" as="sourcePoint" />
+            <mxPoint x="40" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А21" vertex="1">
+          <mxGeometry height="30" width="60" x="116" y="156" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А22" vertex="1">
+          <mxGeometry height="30" width="60" x="325" y="249" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А23" vertex="1">
+          <mxGeometry height="30" width="60" x="505" y="322" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="А24" vertex="1">
+          <mxGeometry height="30" width="60" x="707" y="398" as="geometry" />
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-20" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="630" y="450" as="sourcePoint" />
+            <mxPoint x="630" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-21" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="430" y="450" as="sourcePoint" />
+            <mxPoint x="430" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-22" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="250" y="450" as="sourcePoint" />
+            <mxPoint x="250" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontStyle=1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="450" as="sourcePoint" />
+            <mxPoint x="60" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-24" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontStyle=1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="470" as="sourcePoint" />
+            <mxPoint x="140" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-25" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;fontStyle=1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="470" as="sourcePoint" />
+            <mxPoint x="340" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="470" as="sourcePoint" />
+            <mxPoint x="520" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-27" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="710" y="470" as="sourcePoint" />
+            <mxPoint x="710" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="60" y="450" as="sourcePoint" />
+            <mxPoint x="630" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-29" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="470" as="sourcePoint" />
+            <mxPoint x="710" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-30" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="80" as="sourcePoint" />
+            <mxPoint x="150" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-31" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="360" y="80" as="sourcePoint" />
+            <mxPoint x="360" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-32" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="540" y="80" as="sourcePoint" />
+            <mxPoint x="540" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-33" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="740" y="80" as="sourcePoint" />
+            <mxPoint x="740" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-34" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="130" y="50" as="sourcePoint" />
+            <mxPoint x="130" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-35" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="150" y="80" as="sourcePoint" />
+            <mxPoint x="740" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-36" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="49" as="sourcePoint" />
+            <mxPoint x="330" y="205" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-37" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="520" y="50" as="sourcePoint" />
+            <mxPoint x="520" y="275" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-38" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="720" y="50" as="sourcePoint" />
+            <mxPoint x="720" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mUSUMbk_B-04-jqSfUYJ-39" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="131" y="50" as="sourcePoint" />
+            <mxPoint x="721" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lX3fMkwfgJR4Tc6tQgRh-1" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="827" y="569.5" as="sourcePoint" />
+            <mxPoint x="827" y="549.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lX3fMkwfgJR4Tc6tQgRh-2" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-25" y="569.5" as="sourcePoint" />
+            <mxPoint x="-25" y="549.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
